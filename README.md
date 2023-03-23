@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 **Currently ...**
-* *(latest)* Back into dotnet, this time playing with Redis PubSub features and Async Req Resp architectural pattern. Mixing a public and backend frontends, dealing with queues and events for decoupling actual and future actions. Controllers, Razor Pages and Blazor compose the API and UI. https://github.com/luisgizirian/sample-microservices-pubsub
+* *(latest)* Back into dotnet, this time playing with Redis PubSub features and Async Req Resp architectural pattern. Mixing a public and backend frontends, dealing with queues and events for decoupling actual and future actions. Controllers, Razor Pages and Blazor compose the API and UI. Some React and Docker build automation for semi-dynamic JS operations... Have a look at: https://github.com/luisgizirian/sample-microservices-pubsub
 * in an effort to come up with a device to help people with balance disorders during daily walks, I came across OpenSim (https://opensim.stanford.edu), so I'm trying to discover how this simulator could help on Model Training and Post Analysis phases.
 * main work has taken all time slots. Migrating an old .Net Framework multi-tenant monolith into a dotnet 3.1, 6, 7 microservices architecture to take advantage of Containers and Linux and taking the opportunity of lowering cloud operational costs at the same time. Hope to get back soon enough into the realms of FPGAs, RISC-V and LED Matrices.
 * maximizing processing with FPGAs. Currently learning how to build a High Frame Rate driver for LED matrices.
