@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 **Currently ...**
-* *(latest)* Took a hard hit into my head. A journey into CUDA development (https://developer.nvidia.com/cuda-toolkit) has begun. Let's see where this takes me...
+* *(latest)* A journey into CUDA development (https://developer.nvidia.com/cuda-toolkit) has begun. Let's see where this takes me...
 * Playing with Raspberry Pi Pico RP2040 MCU. Setting a dev/debug environment based on VS Code Remote-SSH, a Raspberry Pi as Dev machine containing C++ SDK et al. Plus, acting as debug probe by using SWD (wired debugging!) right from RPi's GPIO. Besides ensuring a working dev environment, no target project in mind yet. I'd love to play with its Programmable IO (PIO) State Machines though.
 * Back into dotnet, this time playing with Redis PubSub features and Async Req Resp architectural pattern. Mixing a public and backend frontends, dealing with queues and events for decoupling actual and future actions. Controllers, Razor Pages and Blazor compose the API and UI. Some React and Docker build automation for semi-dynamic JS operations... Have a look at: https://github.com/luisgizirian/sample-microservices-pubsub
 * in an effort to come up with a device to help people with balance disorders during daily walks, I came across OpenSim (https://opensim.stanford.edu), so I'm trying to discover how this simulator could help on Model Training and Post Analysis phases.
