@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 🌱 **Currently ...**
-* *(latest)* Learning OpenGL as a means to enhance graphics performance over the Vision Therapy program in the  work queue (therappeye). OpenGL turned out to be a valid choice to create a solution that can run cross-platform (software & hardware). Thanks to Mike Shah ([@mikeshah](https://github.com/mikeshah)) for his "Introduction to OpenGL" series (https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox). Testing Shaders https://github.com/luisgizirian/opengl-shaders
+* *(latest)* Middle-grounding back to Monolith now in the .NET 8 era. Microservices solved some but not all scenarios.
+* Playing with RP2040 PIO & Multicore features. Trying to come up with a scenario that makes sense for a sample real-world usage repo to publish (if you'd like to help I'm happy to listen).
+* Wasted countless hours on trying to work on a setup for a Jetson Orin Nano Dev Kit + NVME + Jetpack 6.0 DP. Will wait for the PROD ready build to try again. Also failed on trying to run LLama3 (8B parameters) using Ollama on top of such HW + OS (but on an SD Card).
+* Learning OpenGL as a means to enhance graphics performance over the Vision Therapy program in the  work queue (therappeye). OpenGL turned out to be a valid choice to create a solution that can run cross-platform (software & hardware). Thanks to Mike Shah ([@mikeshah](https://github.com/mikeshah)) for his "Introduction to OpenGL" series (https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox). Testing Shaders https://github.com/luisgizirian/opengl-shaders
 * After years of bubbling around, a project on Vision Therapy is finally out the door (https://github.com/movement-disorders/therappeye). I hope it grows in all directions!
 * A journey into CUDA development (https://developer.nvidia.com/cuda-toolkit) has begun. Let's see where this takes me...
 * Playing with Raspberry Pi Pico RP2040 MCU. Setting a dev/debug environment based on VS Code Remote-SSH, a Raspberry Pi as Dev machine containing C++ SDK et al. Plus, acting as debug probe by using SWD (wired debugging!) right from RPi's GPIO. Besides ensuring a working dev environment, no target project in mind yet. I'd love to play with its Programmable IO (PIO) State Machines though.
