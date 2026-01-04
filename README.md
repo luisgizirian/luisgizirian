@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 **Currently ...**
-* *(latest)* Middle-grounding back to Monolith now in the .NET 8 era. Microservices solved some but not all scenarios.
+* *(latest)* Middle-grounding back to Monolith now in the .NET 8 (recently outdated, I know) . Microservices solved some but not all scenarios.
 * Playing with RP2040 PIO & Multicore features. Trying to come up with a scenario that makes sense for a sample real-world usage repo to publish (if you'd like to help I'm happy to listen).
 * Wasted countless hours on trying to work on a setup for a Jetson Orin Nano Dev Kit + NVME + Jetpack 6.0 DP. Will wait for the PROD ready build to try again. Also failed on trying to run LLama3 (8B parameters) using Ollama on top of such HW + OS (but on an SD Card).
 * Learning OpenGL as a means to enhance graphics performance over the Vision Therapy program in the  work queue (therappeye). OpenGL turned out to be a valid choice to create a solution that can run cross-platform (software & hardware). Thanks to Mike Shah ([@mikeshah](https://github.com/mikeshah)) for his "Introduction to OpenGL" series (https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox). Testing Shaders https://github.com/luisgizirian/opengl-shaders
