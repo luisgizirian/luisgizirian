@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 **Currently ...**
-* *(latest)* Using GitHub Copilot to drive innovations while learning ways to deal with multi-repository projects to make better use of both VSCode and GH Copilot usage in mid-complex scenarios. Check `luisgizirian/ops-defender`, `luisgizirian/compiler` repos.
+* *(latest)* Using GitHub Copilot to drive innovations while learning ways to deal with multi-repository projects to make better use of both VSCode and GH Copilot for mid-sized scenarios. Check `luisgizirian/ops-defender`, `luisgizirian/compiler` repos.
 * Middle-grounding back to Monolith in .NET 8 (recently outdated, I know) . Microservices solved some but not all scenarios.
 * Playing with RP2040 PIO & Multicore features. Trying to come up with a scenario that makes sense for a sample real-world usage repo to publish (if you'd like to help I'm happy to listen).
 * Wasted countless hours on trying to work on a setup for a Jetson Orin Nano Dev Kit + NVME + Jetpack 6.0 DP. Will wait for the PROD ready build to try again. Also failed on trying to run LLama3 (8B parameters) using Ollama on top of such HW + OS (but on an SD Card).
